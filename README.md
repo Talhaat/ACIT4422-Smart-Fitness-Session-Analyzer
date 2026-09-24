@@ -9,6 +9,7 @@ This program analyses simulated data from sample_data.py, validate fitness measu
 
 
 ## Classes
-* ReferenceProfile - Stores the participants baseline measurements such as heart rate, skin response and temperature.
+* ReferenceProfile
+  * Stores the participants baseline measurements such as heart rate, skin response and temperature.
 
 
