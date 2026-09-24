@@ -109,30 +109,32 @@ Clone repo:
 ```bash
 git clone https://github.com/Talhaat/ACIT4422-Smart-Fitness-Session-Analyzer.git
 ```
+
 unzip file under downloads or where you cloned repo:
-'''
+
+```bash
 unzip ACIT4422-Smart-Fitness-Session-Analyzer.zip
-'''
+```
 
 Go into file location:
-'''
+
+```bash
 cd ACIT4422-Smart-Fitness-Session-Analyzer
-'''
+```
 
 run data generation, classes and test:
-'''
+
+```bash
 python3 sample_data.py
 
 python3 models.py
 
 python3 test.py
-'''
+```
 
 Run main file:
-'''
+
+```bash
 python3 main.py
-'''
-
-
-
+```
 
