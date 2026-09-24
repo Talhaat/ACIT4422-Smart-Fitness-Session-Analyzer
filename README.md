@@ -77,7 +77,7 @@ This program analyses simulated data from sample_data.py, validate fitness measu
   * Average activity level is 0.65 or above
  
 ## Example output
-'''
+```
 Participant: P001
 Observations: 10 of 10 usable
 
@@ -108,7 +108,8 @@ Skin response deviation: 0.395
 
 Session classification: recovering
 Explanation: 10 of 10 observations were usable. Heart rate and activity declined near the end of the session, indicating recovery.
-'''
+```
+
 ## Known limitation
 * Crashes on all-invalid or empty sessions
 * Classification limits are fixed values. For example, activity bellow 0.25 is resting and activity above o.65 is high activity. 
