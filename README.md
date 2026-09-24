@@ -104,5 +104,35 @@ Explanation: 10 of 10 observations were usable. Heart rate and activity declined
 * The data uses simulated data from the provided data generator and have not been tested in real life scenarios.
 
 # Installation and running instrictions
-Clone repo
+Clone repo: 
+
+```bash
+git clone https://github.com/Talhaat/ACIT4422-Smart-Fitness-Session-Analyzer.git
+```
+unzip file under downloads or where you cloned repo:
+'''
+unzip ACIT4422-Smart-Fitness-Session-Analyzer.zip
+'''
+
+Go into file location:
+'''
+cd ACIT4422-Smart-Fitness-Session-Analyzer
+'''
+
+run data generation, classes and test:
+'''
+python3 sample_data.py
+
+python3 models.py
+
+python3 test.py
+'''
+
+Run main file:
+'''
+python3 main.py
+'''
+
+
+
 
