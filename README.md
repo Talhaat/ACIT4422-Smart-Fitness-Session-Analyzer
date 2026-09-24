@@ -4,6 +4,19 @@
 ### Student ID: **thlob4941**
 Assignment 1 for program **ACIT4422 Scripting with Python** using Object Oriented programming for **Smart Fitness Session Analyzer, Option A**.
 
+## Project structure
+
+```text
+ACIT4422-Smart-Fitness-Session-Analyzer/
+|-- README.md
+|-- main.py
+|-- models.py
+|-- sample_data.py
+|-- tests.py
+|-- requirements.txt
+|-- example_usage.py
+`-- option_a_fitness/
+
 ## Summary
 This program analyses simulated data from sample_data.py, validate fitness measurements, organize behaviors, calculate summaries, compare session data with participant's reference profile, detects recoveries and classifies sessions as resting, moderate activity, recovering or insufficient data.  
 
